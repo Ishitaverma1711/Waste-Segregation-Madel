@@ -1,2 +1,2 @@
-# Waste-Segregation-Madel
+# Waste-Segregation-Model
 Segregates Waste Automatically
